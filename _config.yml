@@ -31,6 +31,8 @@ url: https://cirojr.github.io
 
 # Build settings
 theme: minima
+minima:
+  skin: dark
 plugins:
   - jekyll-feed
 
