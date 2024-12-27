@@ -23,7 +23,7 @@ email: ciro.jr@hotmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Experimentations, discoveries and thoughts about software development
 baseurl: "" # the subpath of your site, e.g. /blog
-twitter_username: @cirojr
+twitter_username: cirojr
 github_username:  cirojr
 
 domain: cirojr.github.io
